@@ -35,7 +35,7 @@ img {
 }
 
 div {
-    height: 125px;
+    height: 150px;
     padding: 20px;
     border: #ffffff solid 3px;
 }
@@ -48,7 +48,7 @@ div.introduction {
 }
 
 div.red{
-    height: 125px;
+    height: 150px;
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
@@ -59,7 +59,7 @@ div.red{
 }
 
 div.blue {
-    height: 125px;
+    height: 150px;
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
@@ -75,7 +75,7 @@ div.blue h2 {
 }
 
 div.yellow {
-    height: 125px;
+    height: 150px;
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
@@ -90,7 +90,7 @@ div.yellow p {
 }
 
 div.green {
-    height: 125px;
+    height: 150px;
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
