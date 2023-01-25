@@ -35,7 +35,7 @@ img {
 }
 
 div {
-    height: 130px;
+    min-height: 125px;
     padding: 20px;
     border: #ffffff solid 3px;
 }
@@ -48,7 +48,6 @@ div.introduction {
 }
 
 div.red{
-    height: 130px;
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
@@ -59,7 +58,6 @@ div.red{
 }
 
 div.blue {
-    height: 130px;
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
@@ -75,7 +73,6 @@ div.blue h2 {
 }
 
 div.yellow {
-    height: 130px;
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
@@ -90,7 +87,6 @@ div.yellow p {
 }
 
 div.green {
-    height: 130px;
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
